@@ -1,0 +1,19 @@
+Fonts-----
+Lato regular 400
+Lato Heavy
+Lato Bold 700
+Lato Light 300
+Lato Black 900
+AvantGardenCE Demi
+Montserrat SemiBold 600
+Fontawesome
+
+Font Family-----
+font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+
+
+BUTTON----
+color  #f56131
+feature---
+color #2f2339  (purple)

@@ -1,0 +1,312 @@
+
+
+
+/*header start*/
+header{
+	padding: 5px 0;
+	border-bottom: 1px solid black;
+}
+.c_nav{}
+.logo{}
+.ntoggle:focus {
+    box-shadow: none;
+}
+.s_icon{
+	  margin-left: 113px;
+    margin-top: 20px;
+    color: black;
+}
+.s_icon ul li a{
+	font-size: 16px;
+	color: black;
+}
+.menu ul li a{
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	font-weight: 700;
+	color: #000000 !important;
+	line-height: 24px;
+	padding: 0 25px !important;
+	text-transform: uppercase;
+}
+.menu ul li a:hover{
+	color: #FD511A !important;
+}
+
+/*header end*/
+/*banner start*/
+.banner{
+	background-image: url("../images/banner.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 711px;
+}
+.b_text h1{
+	text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 66px;
+  font-weight: 600;
+  color: white;
+  text-transform: uppercase;
+  margin-top: 130px;
+}
+.b_text p{
+	text-align: left;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: white;
+  margin-top: 20px;
+}
+.btn_common{
+	text-align: center;
+	width: 200px;
+	background-color: #f56131;
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	text-transform: uppercase;
+	border-radius: 0px;
+}
+.btn_custom{
+	height: 50px;
+	font-size: 18px;
+	text-align: center;
+	margin-top: 13px;
+}
+/*banner end*/
+/*feature start*/
+.feature{}
+.f_img{
+	padding: 0px;
+}
+.f_img img{}
+.f_text2{
+	background-color: #2f2339;
+	color: white;
+}
+.f_text h1{
+	text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  color: white;
+  text-transform: uppercase;
+  margin-top: 130px;
+  margin-left: 109px;
+}
+.f_text p{
+	margin-left: 109px;
+}
+.p2{
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	color: #bfbfbf;
+}
+.btn_feature{
+	margin-left: 109px;
+}
+/*feature end*/
+/*about us start*/
+.about_us{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.a_text{
+	margin-left: 40px;
+	margin-top: 80px;
+}
+.a_text h1{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+.btn_about{
+	background-color: #2f2339;
+}
+.a_icon{
+	font-size: 40px;
+}
+.a_item h3{
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	color: white;
+	padding-top: 25px;
+}
+.a_item p{
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+}
+.row_1{
+	background-color: #f56131;
+}
+.aboutus_padding{
+	padding-top: 20px;
+	padding-left: 30px;
+}
+.offrow{
+	height: 154px;
+}
+.a_icon{
+	height: 62px;
+  width: 61px;
+	border-radius: 50%;
+	background-color: white;
+}
+
+/*about us end*/
+/*creative start*/
+.creative{}
+.c_row{
+	background-color: #2f2339;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.c_text{
+	background-color: #2f2339;
+}
+.c_text h1{
+	text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  color: white;
+  text-transform: uppercase;
+  margin-top: 130px;
+  margin-left: 109px;
+}
+.c_item{
+	margin-top: 20px;
+	margin-left: 118px;
+}
+.c_text h3{
+	font-size: 16px;
+	font-weight: 400;
+	color: white;
+	text-transform: uppercase;
+}
+.c_text p{
+	font-size: 16px;
+	font-weight: 400;
+	color: white;
+}
+
+/*creative end*/
+/*watch image start*/
+.watch_ad{}
+.watch_ad h2{
+	  padding-top: 250px;
+    padding-left: 500px;
+    text-align: left;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: white;
+}
+.w_item{
+	background-color: #f56131;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+.w_image{
+
+}
+.w_image img{}
+/*watch image end*/
+/*iphone start*/
+.iphone{}
+
+.iphone_row{
+	background-color: #2f2339;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.iphone_img{
+	padding: 0px;
+}
+.iphone_img img{
+	margin-left: 220px;
+}
+.iphone_text{
+
+}
+.iphone_text h1{
+	text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  color: white;
+  text-transform: uppercase;
+  margin-top: 130px;
+  margin-left: 109px;
+}
+.iphone_text h3{
+	text-align: left;
+	margin-left: 109px;
+}
+.iphone_text p{
+	margin-left: 109px;
+}
+/*iphone end*/
+/*services start*/
+.services{}
+.s_img{
+	padding: 0px;
+	width: 75%;
+}
+.s_img img{
+	margin-left: 90px;
+}
+.s_text{}
+.s_text2{
+	background-color: #f56131;
+	color: white;
+}
+.s_text h1{
+	text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  color: white;
+  text-transform: uppercase;
+  margin-top: 130px;
+  margin-left: 109px;
+}
+.s_text h3{
+	margin-left: 109px;
+}
+.s_text p{
+	margin-left: 109px;
+}
+.btn_services{
+	background-color: #2f2339;
+	margin-left: 109px;
+}
+/*service end*/
+/*thank you start*/
+.ty_b{
+	background-color: #2f2339;
+	text-align: center;
+}
+.ty_b h1{
+	color: white;
+	text-transform: uppercase;
+}
+.ty_b h2{
+	color: white;
+	text-transform: uppercase;
+}
+.ty_b p{
+	color: #ffffff;
+}
+/*thank you end*/
+/*form start*/
+.form_s{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.f_h{
+	text-transform: uppercase;
+}
+/*form end*/
